@@ -36,5 +36,3 @@ jupyter notebook netflix-analysis.ipynb
 ```
 
 Make sure `netflix_titles.csv` is in the same folder as the notebook.
-# netflix-analysis
-# netflix-analysis
